@@ -19,6 +19,9 @@ class SearchViewController: UIViewController {
         super.viewDidLoad()
         let z = 5 + 3
         print(z)
+        
+        
+        print("hi again")
         // Do any additional setup after loading the view.
     }
     

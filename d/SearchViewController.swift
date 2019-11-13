@@ -10,6 +10,7 @@ import UIKit
 
 class SearchViewController: UIViewController {
 
+    var searh :String = " "
     override func viewDidLoad() {
         super.viewDidLoad()
 

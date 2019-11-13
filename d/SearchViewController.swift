@@ -11,6 +11,8 @@ import UIKit
 class SearchViewController: UIViewController {
 
     var searh :String = " "
+    var result :String = " "
+
     override func viewDidLoad() {
         super.viewDidLoad()
 

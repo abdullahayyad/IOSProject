@@ -13,6 +13,8 @@ class SearchViewController: UIViewController {
     var searh :String = " "
     var result :String = " "
 
+    
+    var name :String? = ""
     override func viewDidLoad() {
         super.viewDidLoad()
 

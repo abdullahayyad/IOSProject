@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     
     var x  = 5
     
+    var y = 6
     
     override func viewDidLoad() {
         super.viewDidLoad()
